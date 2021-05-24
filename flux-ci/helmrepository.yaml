@@ -1,8 +1,0 @@
-apiVersion: source.toolkit.fluxcd.io/v1beta1
-kind: HelmRepository
-metadata:
-  name: flux-dummy
-  namespace: vqy364-test2
-spec:
-  url: https://marulkan.github.io/flux-dummy
-  interval: 1m
