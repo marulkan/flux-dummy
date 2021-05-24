@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   flux-dummy:
   - apiVersion: v2
+    appVersion: 1.0.4
+    created: "2021-05-24T11:04:24.64274524Z"
+    description: Testing out flux with tagged releases
+    digest: 26427f0a0db1b18f6d3c57030adb7429ce8881c4957dacf37eb628d7d38a28a0
+    name: flux-dummy
+    type: application
+    urls:
+    - https://marulkan.github.io/flux-dummy/flux-dummy-1.0.4.tgz
+    version: 1.0.4
+  - apiVersion: v2
     appVersion: 1.0.2
     created: "2021-05-24T10:38:52.100346732Z"
     description: Testing out flux with tagged releases
@@ -31,4 +41,4 @@ entries:
     urls:
     - https://marulkan.github.io/flux-dummy/flux-dummy-1.0.0.tgz
     version: 1.0.0
-generated: "2021-05-24T10:38:52.099971198Z"
+generated: "2021-05-24T11:04:24.642156837Z"
