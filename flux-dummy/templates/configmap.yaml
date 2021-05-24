@@ -1,0 +1,6 @@
+---
+apiVersion: 1
+data:
+  text: {{ quote .Values.Text }}
+metadata:
+  name: flux-dummy
